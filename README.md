@@ -7,15 +7,15 @@ Unraveling stochastic fundamental diagrams considering empirical knowledge: mode
 Yuan-Zheng Lei, Yaobang Gong, and Xianfeng Terry Yang
 ```
 
-The experimentation framework is based on tensorflow; 
+The experimentation framework is based on TensorFlow; 
 
-This repo includes more than the implementation of the paper. It imlpements both single-regime and multi-regime fundamental diagram model as the prior of the non-parametric stochastic fundamental diagram model. 
+This repo includes more than the implementation of the paper. It implements both single-regime and multi-regime fundamental diagram models as the prior of the non-parametric stochastic fundamental diagram model. All experiments are reproduced. For details, please see the comments.
 
 The source code and dataset (GA400) are released under the MIT License. See the License file for details.
 
 
 # Requirements and References
-The code uses the following Python packages and they are required: ``tensorflow, gpflow, numpy, scipy``
+The code uses the following Python packages, and they are required: ``tensorflow, gpflow, numpy, scipy``
 
 The code is only tested in ``Python 3`` using ``Anaconda`` environment.
 
