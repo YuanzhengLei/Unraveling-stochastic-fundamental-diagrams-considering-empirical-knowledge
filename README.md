@@ -33,5 +33,10 @@ For any question, you can contact yzlei@umd.edu
 # Citation
 If you use this codebase or any part of it for a publication, please cite:
 ```
-
+@article{lei2024unraveling,
+  title={Unraveling stochastic fundamental diagrams considering empirical knowledge: modeling, limitation and further discussion},
+  author={Lei, Yuan-Zheng and Gong, Yaobang and Yang, Xianfeng Terry},
+  journal={arXiv preprint arXiv:2404.09318},
+  year={2024}
+}
 ```
