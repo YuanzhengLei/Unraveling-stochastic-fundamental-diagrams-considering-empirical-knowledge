@@ -42,7 +42,7 @@ with open(r'C:\Users\user\PycharmProjects\Data\GA400.txt', 'r') as file:
         parts = line.split()
         # Append data to respective lists
         if len(parts) >= 3:
-            x.append(float(parts[1])/1.609344)
+            x.append(float(parts[1])*1.609344)
             y.append(float(parts[2])/1.609344)
 
 
